@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Subhashis Hazarika, Ph.D."
+title                    : "Ashesh Chattopadhyay, Ph.D."
 title_separator          : "-"
-name                     : &name "Subhashis Hazarika"
-description              : &description "Research Scientist at Palo Alto Research Center"
+name                     : &name "Ashesh Chattopadhyay"
+description              : &description "Assistant Professor, Department of Applied Mathematics, University of California, Santa Cruz"
 url                      : https://subhashis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "subhashis/subhashis.github.io"
+repository               : "ashesh/ashesh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Subhashis Hazarika"
+  name             : "Ashesh Chattopadhyay"
   avatar           : "SubhashisHazarika1 copy 2.jpg"
-  bio              : "Research Scientist"
-  location         : "Palo Alto, California"
+  bio              : "Assistant Professor"
+  location         : "Santa Cruz, California"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=YBrmjxgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=wtHkCRIAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Subhashis-Hazarika"
+  researchgate     : "https://www.researchgate.net/profile/Ashesh-Chattopadhyay"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "subhashis"
+  github           : "ashesh6810"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/subhashis-hazarika-65812723/"
+  linkedin         : "https://www.linkedin.com/in/ashesh-chattopadhyay-482ba067/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
